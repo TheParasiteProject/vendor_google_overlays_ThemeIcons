@@ -756,6 +756,7 @@
     <icon drawable="@drawable/themed_icon_mirpay" package="ru.nspk.mirpay" />
     <icon drawable="@drawable/themed_icon_miui_player" package="com.miui.player" />
     <icon drawable="@drawable/themed_icon_mixplorer" package="com.mixplorer" />
+    <icon drawable="@drawable/themed_icon_mixplorer" package="com.mixplorer.beta" />
     <icon drawable="@drawable/themed_icon_mixplorer" package="com.mixplorer.silver" />
     <icon drawable="@drawable/themed_icon_mobile_legends" package="com.mobile.legends" />
     <icon drawable="@drawable/themed_icon_modo" package="com.playdigital.modo" />
