@@ -6,6 +6,6 @@ runtime_resource_overlay {
     product_specific: true,
     resource_dirs: [
         "res",
-        "res-custom",
+        "res-lawnicons",
     ],
 }

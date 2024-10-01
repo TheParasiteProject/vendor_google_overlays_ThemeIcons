@@ -1,0 +1,24 @@
+<!--
+Copyright (C) 2024 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m34.362,134.825 l-5.935,-0.881zM50.317,27.355 L56.252,28.237zM69,92v-6a6,6 0,0 0,-5.93 5.088zM58.502,160.825 L64.437,161.706zM86.044,163.216 L80.114,162.304zM93,118v-6a6,6 0,0 0,-5.93 5.088zM56.527,28L100,28L100,16L56.527,16zM40.297,135.706L56.252,28.237l-11.87,-1.762 -15.955,107.469zM42.272,150L61,150v-12L42.272,138zM69,98h31L100,86L69,86zM66.93,144.912 L74.93,92.912 63.07,91.088 55.07,143.088zM64.437,161.706 L66.935,144.881 55.065,143.119 52.567,159.944zM66.415,176h11.722v-12L66.415,164zM91.974,164.129 L98.93,118.912 87.07,117.088 80.113,162.304zM93,124h31v-12L93,112zM124,124a41,41 0,0 0,41 -41h-12a29,29 0,0 1,-29 29zM165,83c0,-18.498 -12.245,-34.12 -29.058,-39.232l-3.491,11.481C144.351,58.867 153,69.931 153,83zM78.137,176a14,14 0,0 0,13.837 -11.871l-11.86,-1.825A2,2 0,0 1,78.136 164v12zM28.427,133.944C27.172,142.399 33.718,150 42.272,150v-12a1.998,1.998 0,0 1,-1.975 -2.294zM52.567,159.944C51.312,168.402 57.865,176 66.415,176v-12a2,2 0,0 1,-1.978 -2.294zM100,28c13.878,0 25.492,9.755 28.334,22.787l11.725,-2.557C136.04,29.802 119.639,16 100,16zM128.334,50.787c0.435,1.996 0.666,4.074 0.666,6.213h12a0.235,2.192 0,0 0,-0.941 -8.77zM100,98a41,41 0,0 0,41 -41h-12a29,29 0,0 1,-29 29zM56.527,16a12.28,12.28 0,0 0,-12.145 10.475l11.87,1.762a0.28,0.28 0,0 1,0.275 -0.237z"/>
+</vector>
