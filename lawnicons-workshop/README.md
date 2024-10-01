@@ -1,7 +1,8 @@
 # Lawnicons-workshop
 
+* Clone/Pull in latest commit from Lawnicons git
 * Optimize and convert svg to Android drawable xml format
-* Remove duplicated resources to PixelLauncher
+* Remove resources from Lawnicons which contained in PixelLauncher
 
 ## Usage
 
@@ -22,10 +23,22 @@ cd vendor/google/overlays/ThemeIcons/lawnicons-workshop
 ```
 
 * Copy output to PixelLauncherIconsOverlay
-  * `out/drawable` goes under `PixelLauncherIconsOverlay/res-custom/drawable/drawable`
+  * Remove `PixelLauncherIconsOverlay/res-custom/drawable`
+  * `out/drawable` goes under `PixelLauncherIconsOverlay/res-custom`
   * Copy contents of `out/xml/grayscale_icon_map.xml`<br>
+    to `PixelLauncherIconsOverlay/res/xml/grayscale_icon_map.xml`<br>
     under the `<!-- Custom icons -->` section of<br>
-    `PixelLauncherIconsOverlay/res/xml/grayscale_icon_map.xml`<br>
     except `<?xml version="1.0" encoding="utf-8"?>`, `<icons>` and `</icons>`
 
 * Done!
+
+## ToDo
+
+* Major:
+  * Automatically update resources and xml
+
+* Minor (or not added probably):
+  * Create separate dir for Lawnicons (res-lawnicons)<br>
+    So that we can add our own icons too
+  * Auto remove entries from Lawnicons that<br>
+    contained in custom icons (res-custom) we added
