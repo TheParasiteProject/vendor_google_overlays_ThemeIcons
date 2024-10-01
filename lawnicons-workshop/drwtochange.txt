@@ -1,6 +1,8 @@
 themed_icon_calendar_31|themed_icon_calendar_31
 clock|themed_icon_clock
+themed_icon_admin|themed_icon_admin
 android_auto|themed_icon_android_auto
+themed_icon_android_find_my_device|themed_icon_android_find_my_device
 google_authenticator|themed_icon_authenticator
 calculator|themed_icon_calculator
 camera|themed_icon_camera
