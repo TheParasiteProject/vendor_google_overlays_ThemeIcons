@@ -1,10 +1,10 @@
 #!/usr/bin/bash
 
 function check() {
-	if [[ ! -f alldrw.txt ]] ||
-		[[ ! -f drwtochange.txt ]] ||
-		[[ ! -f grayscale_icon_map.xml ]] ||
-		[[ ! -f pkg.txt ]]; then
+	if [[ ! -f all_drawables.txt ]] ||
+		[[ ! -f drawables_to_change.txt ]] ||
+		[[ ! -f grayscale_icon_map-template.xml.txt ]] ||
+		[[ ! -f packages.txt ]]; then
 		echo "This script must be executed"
 		echo "under vendor/google/overlays/ThemeIcons/lawnicons-workshop"
 		echo "by ./svg2xml !"
@@ -14,7 +14,6 @@ function check() {
 
 function proc_done() {
 	echo "Process done"
-	echo "Please check README.md to further instruction"
 }
 
 function set_var() {
@@ -29,12 +28,8 @@ function unset_var() {
 	unset SRC
 }
 
-function clean_wrk() {
-	rm -Rf $WRK
-}
-
 function clean() {
-	clean_wrk
+	rm -Rf $WRK
 	rm -Rf $OUT
 }
 
@@ -77,7 +72,7 @@ function conv_drw() {
 function rm_dup_drw() {
 	local DRW="$OUT/drawable"
 
-	for i in $(cat alldrw.txt); do
+	for i in $(cat all_drawables.txt); do
 		file_to_remove="$DRW/${i}.xml"
 		if [[ -f $file_to_remove ]]; then
 			rm $file_to_remove
@@ -86,7 +81,6 @@ function rm_dup_drw() {
 }
 
 function create_xml() {
-	local XML_WRK_SRC="grayscale_icon_map.xml"
 	local APPFILTER_SRC="$SRC/appfilter.xml"
 	local XML_WRK_DIR="$WRK/xml"
 	local XML_WRK="$WRK/xml/grayscale_icon_map.xml"
@@ -96,7 +90,12 @@ function create_xml() {
 	mkdir -p $XML_WRK_DIR
 	mkdir -p $XML_DIR
 
-	cp $XML_WRK_SRC $XML_WRK
+	cat > $XML_WRK << EOF
+<?xml version="1.0" encoding="utf-8"?>
+<icons>
+</icons>
+EOF
+
 	while IFS= read -r raw; do
 		resRaw=(${raw//;/ })
 		drawable="@drawable/${resRaw[1]}"
@@ -115,11 +114,11 @@ function create_xml() {
 	awk '!seen[$0]++' $XML_WRK.bak >$XML_WRK
 	rm $XML_WRK.bak
 
-	for i in $(cat pkg.txt); do
+	for i in $(cat packages.txt); do
 		sed -i "/$i/d" $XML_WRK
 	done
 
-	for i in $(cat drwtochange.txt); do
+	for i in $(cat drawables_to_change.txt); do
 		arr=(${i//|/ })
 		src=${arr[0]}
 		dest=${arr[1]}
@@ -127,6 +126,16 @@ function create_xml() {
 	done
 
 	mv $XML_WRK $XML
+}
+
+function copy_output() {
+	local DRW_SRC="$OUT/drawable"
+	local DRW_TARGET="../PixelLauncherIconsOverlay/res-lawnicons"
+
+	rm -rf "$DRW_TARGET/drawable"
+	cp -rf $DRW_SRC $DRW_TARGET/
+
+	bash ./setup-xml.sh
 }
 
 check
@@ -143,7 +152,9 @@ conv_drw
 rm_dup_drw
 create_xml
 
-clean_wrk
+copy_output
+
+clean
 unset_var
 
 proc_done
