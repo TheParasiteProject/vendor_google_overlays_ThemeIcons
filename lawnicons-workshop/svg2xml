@@ -39,18 +39,18 @@ function create_dir() {
 }
 
 function clone_lawnicons() {
-    if [[ ! -d "$SRC/lawnicons/.git" ]]; then
-        git clone https://github.com/LawnchairLauncher/lawnicons.git "$SRC/lawnicons"
-        cd "$SRC"
-        ln -sf "lawnicons/svgs" "svgs"
-        ln -sf "lawnicons/app/assets/appfilter.xml" "appfilter.xml"
-        cd ../
-    else
-        cd $SRC/lawnicons
-        git fetch origin
-        git pull origin develop
-        cd ../../
-    fi
+	if [[ ! -d "$SRC/lawnicons/.git" ]]; then
+		git clone https://github.com/LawnchairLauncher/lawnicons.git "$SRC/lawnicons"
+		cd "$SRC"
+		ln -sf "lawnicons/svgs" "svgs"
+		ln -sf "lawnicons/app/assets/appfilter.xml" "appfilter.xml"
+		cd ../
+	else
+		cd $SRC/lawnicons
+		git fetch origin
+		git pull origin develop
+		cd ../../
+	fi
 }
 
 function svg_optim() {
@@ -90,7 +90,7 @@ function create_xml() {
 	mkdir -p $XML_WRK_DIR
 	mkdir -p $XML_DIR
 
-	cat > $XML_WRK << EOF
+	cat >$XML_WRK <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
 </icons>

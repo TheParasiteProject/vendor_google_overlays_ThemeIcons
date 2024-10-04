@@ -26,8 +26,8 @@ sed -i '/<?xml version="1.0" encoding="utf-8"?>/d' $XML_OUT
 sed -i '/<icons>/d' $XML_OUT
 sed -i '/<\/icons>/d' $XML_OUT
 
-cat $XML_OUT >> $XML_TARGET
-echo "</icons>" >> $XML_TARGET
+cat $XML_OUT >>$XML_TARGET
+echo "</icons>" >>$XML_TARGET
 
 unset XML_TARGET
 unset XML_SRC
