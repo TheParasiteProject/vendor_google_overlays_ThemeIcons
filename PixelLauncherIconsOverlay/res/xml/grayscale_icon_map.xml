@@ -1233,7 +1233,10 @@
     <icon drawable="@drawable/cieid" package="it.ipzs.cieid"/>
     <icon drawable="@drawable/cimb_bank_ph" package="com.cimbph.app2022"/>
     <icon drawable="@drawable/cinegato" package="com.naughty.cinegato"/>
-    <icon drawable="@drawable/cinemark_hoyts" package="com.hoyts"/>
+    <icon drawable="@drawable/cinemark" package="com.apptory.cinemark"/>
+    <icon drawable="@drawable/cinemark" package="com.cinemark"/>
+    <icon drawable="@drawable/cinemark" package="pe.cinepapaya.cinemark"/>
+    <icon drawable="@drawable/cinemark" package="com.hoyts"/>
     <icon drawable="@drawable/cinemas_nos" package="pt.nos.cinemas"/>
     <icon drawable="@drawable/cinexplore" package="com.fidloo.cinexplore"/>
     <icon drawable="@drawable/cinepolis" package="air.Cinepolis"/>
@@ -7065,6 +7068,7 @@
     <icon drawable="@drawable/databackup" package="com.xayah.databackup"/>
     <icon drawable="@drawable/databackup" package="com.xayah.databackup.foss"/>
     <icon drawable="@drawable/databackup" package="com.xayah.databackup.premium"/>
+    <icon drawable="@drawable/rotaeno" package="com.xd.rotaeno.googleplay"/>
     <icon drawable="@drawable/rotaeno" package="com.xd.rotaeno.tapcn"/>
     <icon drawable="@drawable/spring_airlines" package="com.china3s.android"/>
     <icon drawable="@drawable/zhihui_xiaolian" package="com.xiaolian.prometheus"/>
