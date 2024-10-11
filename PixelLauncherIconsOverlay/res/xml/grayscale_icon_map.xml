@@ -445,7 +445,7 @@
     <icon drawable="@drawable/app_backup_pro" package="com.snowlife01.backup"/>
     <icon drawable="@drawable/app_box" package="com.motorola.brapps"/>
     <icon drawable="@drawable/app_cloner" package="com.applisto.appcloner"/>
-    <icon drawable="@drawable/app_cloner_plus" package="com.begal.appclone"/>
+    <icon drawable="@drawable/app_cloner_plus_plus" package="com.begal.appclone"/>
     <icon drawable="@drawable/app_inspector" package="com.jgba.appinspector"/>
     <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01"/>
     <icon drawable="@drawable/app_launcher" package="com.simplemobiletools.applauncher"/>
@@ -3522,7 +3522,7 @@
     <icon drawable="@drawable/messenger" package="com.facebook.orca"/>
     <icon drawable="@drawable/messenger_pro" package="tn.amin.mpro2"/>
     <icon drawable="@drawable/meta_business_suite" package="com.facebook.pages.app"/>
-    <icon drawable="@drawable/meta_quest" package="com.oculus.twilight"/>
+    <icon drawable="@drawable/meta_horizon" package="com.oculus.twilight"/>
     <icon drawable="@drawable/meta_workplace" package="com.facebook.work"/>
     <icon drawable="@drawable/metadata_remover" package="rocks.poopjournal.metadataremover"/>
     <icon drawable="@drawable/metamask" package="io.metamask"/>
@@ -3932,6 +3932,7 @@
     <icon drawable="@drawable/myradar_pro" package="com.acmeaom.android.myradarpro"/>
     <icon drawable="@drawable/mysejahtera" package="my.gov.onegovappstore.mysejahtera"/>
     <icon drawable="@drawable/mysmartfren" package="com.smartfren"/>
+    <icon drawable="@drawable/mobitel_selfcare" package="com.slt.selfcare"/>
     <icon drawable="@drawable/mysolaredge" package="com.solaredge.homeowner"/>
     <icon drawable="@drawable/mysplash" package="com.wangdaye.mysplash"/>
     <icon drawable="@drawable/mystory_today" package="today.mystory.app"/>
@@ -4827,7 +4828,7 @@
     <icon drawable="@drawable/pyypl" package="com.pyypl"/>
     <icon drawable="@drawable/qanda" package="com.mathpresso.qanda"/>
     <icon drawable="@drawable/qantas" package="au.com.qantas.qantas"/>
-    <icon drawable="@drawable/qantas_entertainment" package="au.com.qantas.qstreaming"/>
+    <icon drawable="@drawable/samsung_video_player" package="au.com.qantas.qstreaming"/>
     <icon drawable="@drawable/qauxiliary" package="io.github.qauxv"/>
     <icon drawable="@drawable/qbitcontroller" package="dev.bartuzen.qbitcontroller"/>
     <icon drawable="@drawable/qbittorrent_manager" package="dev.yashgarg.qbit"/>
@@ -5580,13 +5581,13 @@
     <icon drawable="@drawable/sony_cinema_pro" package="com.sonymobile.cinemapro"/>
     <icon drawable="@drawable/sony_email" package="com.sonymobile.email"/>
     <icon drawable="@drawable/sony_game_enhancer" package="com.sonymobile.gameenhancer"/>
-    <icon drawable="@drawable/headphones" package="com.sony.songpal.mdr"/>
     <icon drawable="@drawable/sony_liv" package="com.sonyliv"/>
     <icon drawable="@drawable/sony_music" package="com.sonyericsson.music"/>
     <icon drawable="@drawable/sony_music_center" package="com.sony.songpal"/>
     <icon drawable="@drawable/sony_music_pro" package="jp.co.sony.mc.musicpro"/>
     <icon drawable="@drawable/sony_photography_pro" package="com.sonymobile.photopro"/>
     <icon drawable="@drawable/sony_sketch" package="com.sonymobile.sketch"/>
+    <icon drawable="@drawable/sony_sound_connect" package="com.sony.songpal.mdr"/>
     <icon drawable="@drawable/sony_support" package="com.sonymobile.support"/>
     <icon drawable="@drawable/sony_videography_pro" package="jp.co.sony.mc.videopro"/>
     <icon drawable="@drawable/sophos_intercept_x" package="com.sophos.smsec"/>
@@ -6968,7 +6969,7 @@
     <icon drawable="@drawable/tasty_period" package="com.apegroup.mcdonaldsrussia"/>
     <icon drawable="@drawable/vtb" package="ru.vtb24.mobilebanking.android"/>
     <icon drawable="@drawable/vtosters_lite" package="com.vtosters.lite"/>
-    <icon drawable="@drawable/gos_uslugi" package="ru.rostel"/>
+    <icon drawable="@drawable/gosuslugi" package="ru.rostel"/>
     <icon drawable="@drawable/gosusligi_culture" package="ru.gosuslugi.culture"/>
     <icon drawable="@drawable/grill_one" package="ru.geo.ppmobile.grillone"/>
     <icon drawable="@drawable/dobroservice" package="com.dobroservice"/>
