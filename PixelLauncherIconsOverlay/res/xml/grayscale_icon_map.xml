@@ -2152,6 +2152,7 @@
     <icon drawable="@drawable/flashy" package="rocks.poopjournal.flashy"/>
     <icon drawable="@drawable/flat_equalizer" package="com.jazibkhan.equalizer"/>
     <icon drawable="@drawable/flat_style_colored_bars" package="com.bocharov.xposed.fscb"/>
+    <icon drawable="@drawable/flexify" package="com.presley.flexify"/>
     <icon drawable="@drawable/flickr" package="com.flickr.android"/>
     <icon drawable="@drawable/flightaware" package="com.flightaware.android.liveFlightTracker"/>
     <icon drawable="@drawable/flightradar24" package="com.flightradar24free"/>
