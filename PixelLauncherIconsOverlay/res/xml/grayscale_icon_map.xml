@@ -1271,6 +1271,7 @@
     <icon drawable="@drawable/chegg_study" package="com.chegg"/>
     <icon drawable="@drawable/cheogram" package="com.cheogram.android"/>
     <icon drawable="@drawable/cherrygram" package="uz.unnarsx.cherrygram"/>
+    <icon drawable="@drawable/chess" package="com.jetstartgames.chess"/>
     <icon drawable="@drawable/chess" package="com.chess"/>
     <icon drawable="@drawable/chess_clock" package="com.chess.clock"/>
     <icon drawable="@drawable/chess" package="com.google.android.chess"/>
@@ -2684,6 +2685,7 @@
     <icon drawable="@drawable/flashlight" package="com.huawei.HwMultiScreenShot"/>
     <icon drawable="@drawable/huawei_health" package="com.huawei.health"/>
     <icon drawable="@drawable/huawei_hilink" package="com.huawei.mw"/>
+    <icon drawable="@drawable/huawei_mirror" package="com.huawei.mirror"/>
     <icon drawable="@drawable/huawei_mirror" package="com.android.hwmirror"/>
     <icon drawable="@drawable/huawei_music" package="com.huawei.music"/>
     <icon drawable="@drawable/huawei_music" package="com.android.mediacenter"/>
@@ -3944,6 +3946,7 @@
     <icon drawable="@drawable/my_viettel" package="com.vttm.vietteldiscovery"/>
     <icon drawable="@drawable/my_visual_voicemail" package="com.vna.service.vvm"/>
     <icon drawable="@drawable/my_vnpt" package="com.vnp.myvinaphone"/>
+    <icon drawable="@drawable/my_vodafone" package="com.vodafone.android"/>
     <icon drawable="@drawable/my_vodafone" package="com.emeint.android.myservices"/>
     <icon drawable="@drawable/my_vodafone" package="com.vodafone.selfservis"/>
     <icon drawable="@drawable/my_vodafone" package="com.appseleration.android.selfcare"/>
@@ -3959,7 +3962,6 @@
     <icon drawable="@drawable/my_vodafone" package="ua.vodafone.myvodafone"/>
     <icon drawable="@drawable/my_vodafone" package="com.vodafone.mCare"/>
     <icon drawable="@drawable/my_vodafone" package="com.myvodafoneapp"/>
-    <icon drawable="@drawable/my_vodafone" package="com.vodafone.android"/>
     <icon drawable="@drawable/my_vodafone" package="com.VodafoneIreland.MyVodafone"/>
     <icon drawable="@drawable/my_vodafone" package="it.vodafone.my190"/>
     <icon drawable="@drawable/my_workout_plan" package="com.myworkoutplan.myworkoutplan"/>
@@ -4422,6 +4424,7 @@
     <icon drawable="@drawable/oppo_game_space" package="com.coloros.gamespaceui"/>
     <icon drawable="@drawable/oppo_music" package="com.oppo.music"/>
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d"/>
+    <icon drawable="@drawable/oppo_store" package="com.oppo.market"/>
     <icon drawable="@drawable/oppo_store" package="com.oppo.store"/>
     <icon drawable="@drawable/oracle_cloud_infrastructure" package="com.oracle.oci.console.ocimobile"/>
     <icon drawable="@drawable/orange_bank" package="es.orangebank.app"/>
@@ -6159,8 +6162,8 @@
     <icon drawable="@drawable/ticketmaster" package="com.ticketmaster.tickets.international"/>
     <icon drawable="@drawable/ticketmaster" package="com.ticketmaster.mobile.android.na"/>
     <icon drawable="@drawable/ticketswap" package="com.ticketswap.ticketswap"/>
-    <icon drawable="@drawable/ticktick" package="com.ticktick.task"/>
     <icon drawable="@drawable/ticktick" package="cn.ticktick.task"/>
+    <icon drawable="@drawable/ticktick" package="com.ticktick.task"/>
     <icon drawable="@drawable/tiktok" package="com.ss.android.ugc.tiktok.livewallpaper"/>
     <icon drawable="@drawable/tiktok" package="com.zhiliao.musically.livewallpaper"/>
     <icon drawable="@drawable/tidal" package="com.aspiro.tidal"/>
@@ -7126,9 +7129,11 @@
     <icon drawable="@drawable/metro_map_moscow" package="ru.involta.metro"/>
     <icon drawable="@drawable/mishka" package="com.yumasoft.ypos.mishkabakery.customer"/>
     <icon drawable="@drawable/my_megafon" package="ru.megafon.mlk"/>
+    <icon drawable="@drawable/my_mts" package="ru.mts.mymts"/>
     <icon drawable="@drawable/my_mts" package="by.mts.client"/>
     <icon drawable="@drawable/mts" package="ru.mts.mymts"/>
     <icon drawable="@drawable/my_moscow" package="ru.mos.app"/>
+    <icon drawable="@drawable/my_mts" package="ru.mts.bank"/>
     <icon drawable="@drawable/my_kyivstar" package="com.kyivstar.mykyivstar"/>
     <icon drawable="@drawable/nova_post" package="ua.novaposhtaa"/>
     <icon drawable="@drawable/nomerogram" package="ru.drom.numbers"/>
