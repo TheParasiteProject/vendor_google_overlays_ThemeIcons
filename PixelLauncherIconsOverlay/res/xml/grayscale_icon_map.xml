@@ -517,7 +517,7 @@
     <icon drawable="@drawable/artifact" package="ai.nokto.wire"/>
     <icon drawable="@drawable/artstation" package="com.ballistiq.artstation"/>
     <icon drawable="@drawable/asana" package="com.asana.app"/>
-    <icon drawable="@drawable/asd_player" package="com.app_mo.splayer"/>
+    <icon drawable="@drawable/generic_player" package="com.app_mo.splayer"/>
     <icon drawable="@drawable/asda_rewards" package="com.asda.rewards"/>
     <icon drawable="@drawable/ashell" package="in.sunilpaulmathew.ashell"/>
     <icon drawable="@drawable/ladb" package="in.hridayan.ashell"/>
@@ -986,6 +986,7 @@
     <icon drawable="@drawable/bunny_manager" package="io.github.pyoncord.manager"/>
     <icon drawable="@drawable/bunq" package="com.bunq.android"/>
     <icon drawable="@drawable/bura" package="com.davidtakac.bura"/>
+    <icon drawable="@drawable/burger_king" package="com.nosmk.burgerking"/>
     <icon drawable="@drawable/burger_king" package="za.co.wigroup.burgerking"/>
     <icon drawable="@drawable/burger_king" package="com.burgerkingpl"/>
     <icon drawable="@drawable/burger_king" package="com.bk.pt"/>
@@ -1004,7 +1005,6 @@
     <icon drawable="@drawable/burger_king" package="com.dom.burgerking"/>
     <icon drawable="@drawable/burger_king" package="com.emn8.mobilem8.nativeapp.bk"/>
     <icon drawable="@drawable/burger_king" package="com.frakton.burgerking"/>
-    <icon drawable="@drawable/burger_king" package="com.nosmk.burgerking"/>
     <icon drawable="@drawable/burger_king" package="com.proacit.burgerkingcolombia"/>
     <icon drawable="@drawable/burger_king" package="com.skylinedynamics.bk"/>
     <icon drawable="@drawable/burger_king" package="com.smt.BurgerKing"/>
@@ -2457,6 +2457,7 @@
     <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks"/>
     <icon drawable="@drawable/pdf_viewer" package="com.google.android.apps.pdfviewer"/>
     <icon drawable="@drawable/themed_icon_photos" package="app.revanced.android.photos"/>
+    <icon drawable="@drawable/discord" package="app.revenge"/>
     <icon drawable="@drawable/google_pixel_buds" package="com.google.android.apps.wearables.maestro.companion"/>
     <icon drawable="@drawable/google_pixel_studio" package="com.google.android.apps.pixel.creativeassistant"/>
     <icon drawable="@drawable/google_pixel_watch" package="com.google.android.apps.wear.companion"/>
@@ -6920,7 +6921,7 @@
     <icon drawable="@drawable/xos_launcher" package="com.transsion.XOSLauncher"/>
     <icon drawable="@drawable/xos_launcher" package="com.transsion.XOSLauncher.upgrade"/>
     <icon drawable="@drawable/xoss" package="co.xoss"/>
-    <icon drawable="@drawable/xplayer" package="video.player.videoplayer"/>
+    <icon drawable="@drawable/generic_player" package="video.player.videoplayer"/>
     <icon drawable="@drawable/sms_organizer" package="com.github.tianma8023.xposed.smscode"/>
     <icon drawable="@drawable/xproguard_password_manager" package="com.xproguard.passwd"/>
     <icon drawable="@drawable/xproguard_photo_vault" package="com.xproguard.photovault"/>
