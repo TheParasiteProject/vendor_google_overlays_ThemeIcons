@@ -4414,6 +4414,7 @@
     <icon drawable="@drawable/timelimit" package="io.timelimit.android.open"/>
     <icon drawable="@drawable/open_video_editor" package="io.github.devhyper.openvideoeditor"/>
     <icon drawable="@drawable/openbank" package="es.openbank.mobile"/>
+    <icon drawable="@drawable/bible" package="com.schwegelbin.openbible"/>
     <icon drawable="@drawable/openboard" package="org.dslul.openboard.inputmethod.latin"/>
     <icon drawable="@drawable/openbubbles" package="com.openbubbles.messaging"/>
     <icon drawable="@drawable/themed_icon_calculator" package="com.darkempire78.opencalculator"/>
