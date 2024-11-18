@@ -3235,6 +3235,8 @@
     <icon drawable="@drawable/lawnchair" package="ch.deletescape.lawnchair.plah"/>
     <icon drawable="@drawable/lawnchair" package="app.lawnchair"/>
     <icon drawable="@drawable/lawnchair" package="app.lawnchair.play"/>
+    <icon drawable="@drawable/lawnchair" package="ch.deletescape.lawnchair"/>
+    <icon drawable="@drawable/lawnchair" package="ch.deletescape.lawnchair.ci"/>
     <icon drawable="@drawable/lawnchair" package="app.lawnchair.debug"/>
     <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons"/>
     <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons.play"/>
@@ -7448,4 +7450,5 @@
     <icon drawable="@drawable/starbucks" package="com.starbucks.co"/>
     <icon drawable="@drawable/toss" package="viva.republica.toss"/>
     <icon drawable="@drawable/keyboard" package="space.takashima.keypo"/>
+    <icon drawable="@drawable/authenticator_pro" package="com.stratumauth.app"/>
 </icons>
