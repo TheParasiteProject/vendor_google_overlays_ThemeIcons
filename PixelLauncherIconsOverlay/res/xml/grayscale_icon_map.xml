@@ -3327,7 +3327,8 @@
     <icon drawable="@drawable/gallery" package="org.lineageos.glimpse"/>
     <icon drawable="@drawable/lineageos_jelly_browser" package="org.lineageos.jelly"/>
     <icon drawable="@drawable/lineageos_jelly_browser" package="org.droidtr.jelly"/>
-    <icon drawable="@drawable/lineageos_music" package="org.lineageos.eleven"/>
+    <icon drawable="@drawable/lineageos_music_11" package="org.lineageos.eleven"/>
+    <icon drawable="@drawable/lineageos_music_12" package="org.lineageos.twelve"/>
     <icon drawable="@drawable/themed_icon_recorder" package="org.lineageos.recorder"/>
     <icon drawable="@drawable/linebit_icons" package="com.edzondm.linebit"/>
     <icon drawable="@drawable/linex_black_icons" package="com.jndapp.linex.black.iconpack"/>
@@ -4412,6 +4413,7 @@
     <icon drawable="@drawable/open_food_facts" package="org.openfoodfacts.scanner"/>
     <icon drawable="@drawable/open_food_facts" package="openfoodfacts.github.scrachx.openfood"/>
     <icon drawable="@drawable/open_link_with" package="com.tasomaniac.openwith"/>
+    <icon drawable="@drawable/open_note" package="com.yangdai.opennote"/>
     <icon drawable="@drawable/open_radio" package="com.yuriy.openradio"/>
     <icon drawable="@drawable/timelimit" package="io.timelimit.android.open"/>
     <icon drawable="@drawable/open_video_editor" package="io.github.devhyper.openvideoeditor"/>
@@ -4422,6 +4424,7 @@
     <icon drawable="@drawable/themed_icon_calculator" package="com.darkempire78.opencalculator"/>
     <icon drawable="@drawable/dialer" package="opencontacts.open.com.opencontacts"/>
     <icon drawable="@drawable/opendocument_reader" package="at.tomtasche.reader"/>
+    <icon drawable="@drawable/pixel_ims" package="im.angry.openeuicc"/>
     <icon drawable="@drawable/openhab" package="org.openhab.habdroid"/>
     <icon drawable="@drawable/openkeychain" package="org.sufficientlysecure.keychain"/>
     <icon drawable="@drawable/openlib" package="com.app.openlib"/>
@@ -5175,6 +5178,7 @@
     <icon drawable="@drawable/youtube_revanced" package="app.revanced.manager.flutter.debug"/>
     <icon drawable="@drawable/rvx_manager" package="com.termux.revancify.blue"/>
     <icon drawable="@drawable/discord" package="app.revenge"/>
+    <icon drawable="@drawable/revenge_manager" package="app.revenge.manager"/>
     <icon drawable="@drawable/reverse_image_search" package="com.thinkfree.searchbyimage"/>
     <icon drawable="@drawable/reverse_1999" package="com.bluepoch.m.en.reverse1999"/>
     <icon drawable="@drawable/reverso_context" package="com.softissimo.reverso.context"/>
@@ -5497,9 +5501,9 @@
     <icon drawable="@drawable/system_ui_tuner" package="com.legendsayantan.adbtools"/>
     <icon drawable="@drawable/shokz" package="cn.com.aftershokz.app"/>
     <icon drawable="@drawable/shopback" package="com.shopback.app"/>
+    <icon drawable="@drawable/shopee" package="com.shopee.my"/>
     <icon drawable="@drawable/shopee" package="com.shopee.id"/>
     <icon drawable="@drawable/shopee" package="com.shopee.br"/>
-    <icon drawable="@drawable/shopee" package="com.shopee.my"/>
     <icon drawable="@drawable/shopee" package="com.shopee.ph"/>
     <icon drawable="@drawable/shopee" package="com.shopee.pl"/>
     <icon drawable="@drawable/shopee" package="com.shopee.th"/>
@@ -5891,6 +5895,7 @@
     <icon drawable="@drawable/story_graph" package="com.thestorygraph.thestorygraph"/>
     <icon drawable="@drawable/storytel" package="grit.storytel.app"/>
     <icon drawable="@drawable/strafe" package="com.strafe.android"/>
+    <icon drawable="@drawable/authenticator_pro" package="com.stratumauth.app"/>
     <icon drawable="@drawable/strava" package="com.strava"/>
     <icon drawable="@drawable/strawberry" package="com.nordicchoicehotels.breeze"/>
     <icon drawable="@drawable/streamlabs" package="com.streamlabs"/>
@@ -6006,6 +6011,7 @@
     <icon drawable="@drawable/systemui_tuner" package="com.zacharee1.systemuituner"/>
     <icon drawable="@drawable/szkolny" package="pl.szczodrzynski.edziennik"/>
     <icon drawable="@drawable/sz" package="de.sde.mobile"/>
+    <icon drawable="@drawable/tmobile" package="com.tmobile.tuesdays"/>
     <icon drawable="@drawable/tmobile" package="pl.tmobile.miboa"/>
     <icon drawable="@drawable/t_mobile_device_unlock" package="com.tmobile.grsuapp"/>
     <icon drawable="@drawable/t_mobile_device_unlock" package="com.tmobile.rsuapp"/>
@@ -7450,5 +7456,4 @@
     <icon drawable="@drawable/starbucks" package="com.starbucks.co"/>
     <icon drawable="@drawable/toss" package="viva.republica.toss"/>
     <icon drawable="@drawable/keyboard" package="space.takashima.keypo"/>
-    <icon drawable="@drawable/authenticator_pro" package="com.stratumauth.app"/>
 </icons>
