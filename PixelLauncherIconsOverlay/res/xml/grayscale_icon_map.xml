@@ -7456,4 +7456,7 @@
     <icon drawable="@drawable/starbucks" package="com.starbucks.co"/>
     <icon drawable="@drawable/toss" package="viva.republica.toss"/>
     <icon drawable="@drawable/keyboard" package="space.takashima.keypo"/>
+    <icon drawable="@drawable/disabler" package="com.servoz.appsdisabler"/>
+    <icon drawable="@drawable/simple_reboot" package="simple.reboot.com"/>
+    <icon drawable="@drawable/animated_sticker_maker" package="com.leapzip.animatedstickers.maker.android"/>
 </icons>
