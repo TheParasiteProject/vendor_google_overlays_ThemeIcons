@@ -120,9 +120,14 @@ EOF
 
 	for i in $(cat drawables_to_change.txt); do
 		arr=(${i//|/ })
-		src=${arr[0]}
-		dest=${arr[1]}
-		sed -i "s/\"@drawable\/$src\"/\"@drawable\/$dest\"/g" $XML_WRK
+		if [[ ${#arr[@]} == 2 ]]; then
+			src=${arr[0]}
+			dest=${arr[1]}
+			sed -i "s/\"@drawable\/$src\"/\"@drawable\/$dest\"/g" $XML_WRK
+		else
+			src=${arr[0]}
+			sed -i "/\"$src\"/d" $XML_WRK
+		fi
 	done
 
 	mv $XML_WRK $XML
