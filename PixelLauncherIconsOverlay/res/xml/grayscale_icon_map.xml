@@ -486,7 +486,7 @@
     <icon drawable="@drawable/astracrypt" package="com.nevidimka655.astracrypt"/>
     <icon drawable="@drawable/astro_file_manager" package="com.metago.astro"/>
     <icon drawable="@drawable/astrodx" package="com.Reflektone.AstroDX"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.asus.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.asus.deskclock"/>
     <icon drawable="@drawable/asus_file_manager" package="com.asus.filemanager"/>
     <icon drawable="@drawable/asus_gallery" package="com.asus.gallery"/>
     <icon drawable="@drawable/asus_phone_clone" package="com.futuredial.asusdatatransfer"/>
@@ -741,7 +741,7 @@
     <icon drawable="@drawable/birbank" package="az.kapitalbank.mbanking"/>
     <icon drawable="@drawable/birday" package="com.minar.birday"/>
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.kebstudios.calc"/>
+    <icon drawable="@drawable/calculator" package="com.kebstudios.calc"/>
     <icon drawable="@drawable/bitchute" package="com.bitchute.app"/>
     <icon drawable="@drawable/bitdefender_antivirus" package="com.bitdefender.antivirus"/>
     <icon drawable="@drawable/bitdefender_central" package="com.bitdefender.centralmgmt"/>
@@ -906,7 +906,7 @@
     <icon drawable="@drawable/bri_mobile" package="id.co.bri.brimo"/>
     <icon drawable="@drawable/bring" package="ch.publisheria.bring"/>
     <icon drawable="@drawable/bromite" package="org.bromite.bromite"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="org.bromite.bromite.dev"/>
+    <icon drawable="@drawable/google_chrome" package="org.bromite.bromite.dev"/>
     <icon drawable="@drawable/brotato" package="org.godotengine.brotato"/>
     <icon drawable="@drawable/printer" package="com.brother.mfc.brprint"/>
     <icon drawable="@drawable/brother_print_service_plugin" package="com.brother.printservice"/>
@@ -1020,25 +1020,25 @@
     <icon drawable="@drawable/cake_wallet" package="com.cakewallet.cake_wallet"/>
     <icon drawable="@drawable/cake_learn" package="me.mycake"/>
     <icon drawable="@drawable/cakeresume" package="com.cakeresume.app"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.hld.anzenbokusucal"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.huawei.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.vivo.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.hld.anzenbokusucal"/>
+    <icon drawable="@drawable/calculator" package="com.huawei.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.vivo.calculator"/>
     <icon drawable="@drawable/calculator_plus" package="com.hihonor.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.android.pri.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="org.fossify.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.android.pri.calculator"/>
+    <icon drawable="@drawable/calculator" package="org.fossify.calculator"/>
     <icon drawable="@drawable/calculator_plus" package="com.transsion.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.motorola.cn.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.coloros.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.oneplus.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.android.bbkcalculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.android.calculator2"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.inator.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.motorola.cn.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.coloros.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.oneplus.calculator"/>
+    <icon drawable="@drawable/calculator" package="com.android.bbkcalculator"/>
+    <icon drawable="@drawable/calculator" package="com.android.calculator2"/>
+    <icon drawable="@drawable/calculator" package="com.inator.calculator"/>
     <icon drawable="@drawable/calculator_plusplus" package="org.solovyev.android.calculator"/>
     <icon drawable="@drawable/calculator_n_plus" package="com.duy.calculator.free"/>
     <icon drawable="@drawable/calculator_plus" package="com.gigaworks.tech.calculator"/>
     <icon drawable="@drawable/calculator_you" package="com.marktka.calculatorYou"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.asus.calculator"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="net.youapps.calcyou"/>
+    <icon drawable="@drawable/calculator" package="com.asus.calculator"/>
+    <icon drawable="@drawable/calculator" package="net.youapps.calcyou"/>
     <icon drawable="@drawable/calendar" package="com.bbk.calendar"/>
     <icon drawable="@drawable/calendar" package="com.hihonor.calendar"/>
     <icon drawable="@drawable/simple_calendar" package="org.fossify.calendar"/>
@@ -1055,74 +1055,74 @@
     <icon drawable="@drawable/calorie_counter" package="com.fatsecret.android"/>
     <icon drawable="@drawable/calorie_carb_and_fat_counter" package="digifit.virtuagym.foodtracker"/>
     <icon drawable="@drawable/calyx_vpn" package="org.calyxinstitute.vpn"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.gcam94"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.camera.lmc83r1"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.lineageos.aperture.dev"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.gcam92"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.odm.camera3"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_9_2_113"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.derpfest.flash"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.scan3d"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.camera3"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.ontim.camera2"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.mediatek.hz.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.samsung.agc.gcam84"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.hihonor.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.google.android.apps.cameraslite"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_8_224"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_6_263"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.mediatek.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_9_097"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.simplemobiletools.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.fossify.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.lineageos.aperture"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.codeaurora.snapcam"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.samsung.agc.gcam88"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.samsung.agc.gcam90"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.samsung.agc.gcam91"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.gcam88"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.gcam90"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.gcam91"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_9_1_098"/>
-    <icon drawable="@drawable/themed_icon_camera" package="app.grapheneos.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.agc.cam"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.arn"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.camera2"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_4_400"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_5_300"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC_8_7_250"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.mgc"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.MGC.not.stable"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.asus.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.google.android.apps.cameralite"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.Burial31"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.Burial"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.mwp83"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.GoogleCamera.mwp84"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.googleCamera.Wichaya8"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.hmdglobal.app.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.hmdglobal.camera2"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.honor.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.huawei.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.lge.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.camera2"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.motorola.cameraone"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.ngcam.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.oneplus.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.oplus.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.oppo.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.sec.android.app.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.shamim.cam"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.sonyericsson.android.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.tcl.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.transsion.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="foundation.e.camera"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.codeaurora.qcamera3"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.lineageos.selfie"/>
-    <icon drawable="@drawable/themed_icon_camera" package="org.lineageos.snap"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.android.lmc82"/>
+    <icon drawable="@drawable/camera" package="com.agc.gcam94"/>
+    <icon drawable="@drawable/camera" package="com.camera.lmc83r1"/>
+    <icon drawable="@drawable/camera" package="org.lineageos.aperture.dev"/>
+    <icon drawable="@drawable/camera" package="com.agc.gcam92"/>
+    <icon drawable="@drawable/camera" package="com.motorola.odm.camera3"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_9_2_113"/>
+    <icon drawable="@drawable/camera" package="org.derpfest.flash"/>
+    <icon drawable="@drawable/camera" package="com.samsung.android.scan3d"/>
+    <icon drawable="@drawable/camera" package="com.motorola.camera3"/>
+    <icon drawable="@drawable/camera" package="com.ontim.camera2"/>
+    <icon drawable="@drawable/camera" package="com.mediatek.hz.camera"/>
+    <icon drawable="@drawable/camera" package="com.samsung.agc.gcam84"/>
+    <icon drawable="@drawable/camera" package="com.hihonor.camera"/>
+    <icon drawable="@drawable/camera" package="com.google.android.apps.cameraslite"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_8_224"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_6_263"/>
+    <icon drawable="@drawable/camera" package="com.mediatek.camera"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_9_097"/>
+    <icon drawable="@drawable/camera" package="com.simplemobiletools.camera"/>
+    <icon drawable="@drawable/camera" package="org.fossify.camera"/>
+    <icon drawable="@drawable/camera" package="org.lineageos.aperture"/>
+    <icon drawable="@drawable/camera" package="org.codeaurora.snapcam"/>
+    <icon drawable="@drawable/camera" package="com.samsung.agc.gcam88"/>
+    <icon drawable="@drawable/camera" package="com.samsung.agc.gcam90"/>
+    <icon drawable="@drawable/camera" package="com.samsung.agc.gcam91"/>
+    <icon drawable="@drawable/camera" package="com.agc.gcam88"/>
+    <icon drawable="@drawable/camera" package="com.agc.gcam90"/>
+    <icon drawable="@drawable/camera" package="com.agc.gcam91"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_9_1_098"/>
+    <icon drawable="@drawable/camera" package="app.grapheneos.camera"/>
+    <icon drawable="@drawable/camera" package="com.agc.cam"/>
+    <icon drawable="@drawable/camera" package="com.android.arn"/>
+    <icon drawable="@drawable/camera" package="com.android.camera2"/>
+    <icon drawable="@drawable/camera" package="com.android.camera"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_4_400"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_5_300"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_7_250"/>
+    <icon drawable="@drawable/camera" package="com.android.mgc"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC"/>
+    <icon drawable="@drawable/camera" package="com.android.MGC.not.stable"/>
+    <icon drawable="@drawable/camera" package="com.asus.camera"/>
+    <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite"/>
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial31"/>
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial"/>
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp83"/>
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp84"/>
+    <icon drawable="@drawable/camera" package="com.googleCamera.Wichaya8"/>
+    <icon drawable="@drawable/camera" package="com.hmdglobal.app.camera"/>
+    <icon drawable="@drawable/camera" package="com.hmdglobal.camera2"/>
+    <icon drawable="@drawable/camera" package="com.honor.camera"/>
+    <icon drawable="@drawable/camera" package="com.huawei.camera"/>
+    <icon drawable="@drawable/camera" package="com.lge.camera"/>
+    <icon drawable="@drawable/camera" package="com.motorola.camera2"/>
+    <icon drawable="@drawable/camera" package="com.motorola.cameraone"/>
+    <icon drawable="@drawable/camera" package="com.ngcam.camera"/>
+    <icon drawable="@drawable/camera" package="com.oneplus.camera"/>
+    <icon drawable="@drawable/camera" package="com.oplus.camera"/>
+    <icon drawable="@drawable/camera" package="com.oppo.camera"/>
+    <icon drawable="@drawable/camera" package="com.sec.android.app.camera"/>
+    <icon drawable="@drawable/camera" package="com.shamim.cam"/>
+    <icon drawable="@drawable/camera" package="com.sonyericsson.android.camera"/>
+    <icon drawable="@drawable/camera" package="com.tcl.camera"/>
+    <icon drawable="@drawable/camera" package="com.transsion.camera"/>
+    <icon drawable="@drawable/camera" package="foundation.e.camera"/>
+    <icon drawable="@drawable/camera" package="org.codeaurora.qcamera3"/>
+    <icon drawable="@drawable/camera" package="org.lineageos.selfie"/>
+    <icon drawable="@drawable/camera" package="org.lineageos.snap"/>
+    <icon drawable="@drawable/camera" package="com.android.lmc82"/>
     <icon drawable="@drawable/camera_assistant" package="com.samsung.android.app.cameraassistant"/>
     <icon drawable="@drawable/camera_date_folders" package="de.kromke.andreas.cameradatefolders"/>
     <icon drawable="@drawable/camera_zoom_fx" package="slide.cameraZoom"/>
@@ -1168,7 +1168,7 @@
     <icon drawable="@drawable/carrot" package="com.grailr.carrotweather"/>
     <icon drawable="@drawable/carteira_de_trabalho_digital" package="br.gov.dataprev.carteiradigital"/>
     <icon drawable="@drawable/carteira_digital_de_transito" package="br.gov.serpro.cnhe"/>
-    <icon drawable="@drawable/themed_icon_maps" package="com.round_tower.app.android.wallpaper.cartogram"/>
+    <icon drawable="@drawable/maps" package="com.round_tower.app.android.wallpaper.cartogram"/>
     <icon drawable="@drawable/cartao_continente" package="pt.continente.ContinenteTelemovel"/>
     <icon drawable="@drawable/carx_street" package="com.carxtech.sr"/>
     <icon drawable="@drawable/casa_do_saber_plus" package="com.casadosaber.digital"/>
@@ -1243,8 +1243,8 @@
     <icon drawable="@drawable/chordify" package="net.chordify.chordify"/>
     <icon drawable="@drawable/chroma_lab" package="com.ilixa.chroma"/>
     <icon drawable="@drawable/chrome_remote_desktop" package="com.google.chromeremotedesktop"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="org.chromium.chrome.stable"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="org.chromium.chrome"/>
+    <icon drawable="@drawable/google_chrome" package="org.chromium.chrome.stable"/>
+    <icon drawable="@drawable/google_chrome" package="org.chromium.chrome"/>
     <icon drawable="@drawable/chrono" package="com.vicolo.chrono"/>
     <icon drawable="@drawable/chrono_artm" package="quebec.artm.chrono"/>
     <icon drawable="@drawable/chronos" package="com.fbiego.chronos"/>
@@ -1309,22 +1309,22 @@
     <icon drawable="@drawable/clipious" package="com.github.lamarios.clipious"/>
     <icon drawable="@drawable/clipt" package="studio.onelab.clipboard"/>
     <icon drawable="@drawable/clipto" package="com.wb.clipboard.pro"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.android.deskclock.go"/>
-    <icon drawable="@drawable/themed_icon_clock" package="zte.com.cn.alarmclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.sonyericsson.organizer"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.hihonor.deskclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.android.BBKClock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.android.deskclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.coloros.alarmclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.oneplus.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.android.deskclock.go"/>
+    <icon drawable="@drawable/clock" package="zte.com.cn.alarmclock"/>
+    <icon drawable="@drawable/clock" package="com.sonyericsson.organizer"/>
+    <icon drawable="@drawable/clock" package="com.hihonor.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.android.BBKClock"/>
+    <icon drawable="@drawable/clock" package="com.android.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.coloros.alarmclock"/>
+    <icon drawable="@drawable/clock" package="com.oneplus.deskclock"/>
     <icon drawable="@drawable/desk_clock" package="com.best.deskclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.sec.android.app.clockpackage"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.simplemobiletools.clock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="org.fossify.clock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.transsion.deskclock"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.motorola.cn.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.sec.android.app.clockpackage"/>
+    <icon drawable="@drawable/clock" package="com.simplemobiletools.clock"/>
+    <icon drawable="@drawable/clock" package="org.fossify.clock"/>
+    <icon drawable="@drawable/clock" package="com.transsion.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.motorola.cn.deskclock"/>
     <icon drawable="@drawable/clock_widget" package="rk.android.app.clockwidget"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.bnyro.clock"/>
+    <icon drawable="@drawable/clock" package="com.bnyro.clock"/>
     <icon drawable="@drawable/clockify" package="me.clockify.android"/>
     <icon drawable="@drawable/clone_app" package="com.pengyou.cloneapp"/>
     <icon drawable="@drawable/cloudedge" package="com.cloudedge.smarteye"/>
@@ -1400,7 +1400,7 @@
     <icon drawable="@drawable/conta_digital_ifood" package="br.com.movilepay.banking.application"/>
     <icon drawable="@drawable/contacts" package="com.oneplus.contacts"/>
     <icon drawable="@drawable/contacts" package="com.sonymobile.android.contacts"/>
-    <icon drawable="@drawable/themed_icon_contacts" package="com.android.contacts"/>
+    <icon drawable="@drawable/google_contacts" package="com.android.contacts"/>
     <icon drawable="@drawable/contacts" package="org.fossify.contacts"/>
     <icon drawable="@drawable/continente_siga" package="pt.continente.ContinenteSiga"/>
     <icon drawable="@drawable/control_center_ios" package="com.appsgenz.controlcenter.phone.ios"/>
@@ -2132,7 +2132,7 @@
     <icon drawable="@drawable/flo" package="com.flo.ayakkabi"/>
     <icon drawable="@drawable/flo_period" package="org.iggymedia.periodtracker"/>
     <icon drawable="@drawable/floating_apps" package="com.lwi.android.flapps"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.dslit.floatingclock"/>
+    <icon drawable="@drawable/clock" package="com.dslit.floatingclock"/>
     <icon drawable="@drawable/floating_timer" package="xyz.tberghuis.floatingtimer"/>
     <icon drawable="@drawable/floatplane" package="com.floatplane.floatplane"/>
     <icon drawable="@drawable/floccus" package="org.handmadeideas.floccus"/>
@@ -2411,20 +2411,20 @@
     <icon drawable="@drawable/google_arts_culture" package="com.google.android.apps.cultural"/>
     <icon drawable="@drawable/google_assistant_go" package="com.google.android.apps.assistant"/>
     <icon drawable="@drawable/google_assistant_interpreter" package="com.google.android.apps.assistantinterpreter"/>
-    <icon drawable="@drawable/themed_icon_camera" package="arn.android.gcam"/>
-    <icon drawable="@drawable/themed_icon_chat" package="com.google.android.talk"/>
+    <icon drawable="@drawable/camera" package="arn.android.gcam"/>
+    <icon drawable="@drawable/google_chat" package="com.google.android.talk"/>
     <icon drawable="@drawable/google_chrome_beta" package="com.chrome.beta"/>
     <icon drawable="@drawable/google_chrome_canary" package="com.chrome.canary"/>
     <icon drawable="@drawable/google_chrome_dev" package="com.chrome.dev"/>
     <icon drawable="@drawable/google_cloud" package="com.google.android.apps.cloudconsole"/>
     <icon drawable="@drawable/google_daydream" package="com.google.android.vr.home"/>
     <icon drawable="@drawable/google_gemini" package="com.google.android.apps.bard"/>
-    <icon drawable="@drawable/themed_icon_google" package="com.google.android.apps.searchlite"/>
+    <icon drawable="@drawable/google" package="com.google.android.apps.searchlite"/>
     <icon drawable="@drawable/google_health_connect" package="com.google.android.apps.healthdata"/>
     <icon drawable="@drawable/google_kids_space" package="com.google.android.apps.kids.home"/>
     <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks"/>
     <icon drawable="@drawable/pdf_viewer" package="com.google.android.apps.pdfviewer"/>
-    <icon drawable="@drawable/themed_icon_photos" package="app.revanced.android.photos"/>
+    <icon drawable="@drawable/google_photos" package="app.revanced.android.photos"/>
     <icon drawable="@drawable/google_pixel_buds" package="com.google.android.apps.wearables.maestro.companion"/>
     <icon drawable="@drawable/google_pixel_studio" package="com.google.android.apps.pixel.creativeassistant"/>
     <icon drawable="@drawable/google_pixel_watch" package="com.google.android.apps.wear.companion"/>
@@ -2650,7 +2650,7 @@
     <icon drawable="@drawable/huawei_appassistant" package="com.huawei.gameassistant"/>
     <icon drawable="@drawable/huawei_appgallery" package="com.huawei.appmarket"/>
     <icon drawable="@drawable/huawei_browser" package="com.huawei.browser"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.huawei.deskclock"/>
+    <icon drawable="@drawable/clock" package="com.huawei.deskclock"/>
     <icon drawable="@drawable/compass" package="com.huawei.compass"/>
     <icon drawable="@drawable/contacts" package="com.huawei.contacts"/>
     <icon drawable="@drawable/flashlight" package="com.huawei.HwMultiScreenShot"/>
@@ -3235,7 +3235,7 @@
     <icon drawable="@drawable/lexis_audio_editor" package="com.pamsys.lexisaudioeditor"/>
     <icon drawable="@drawable/lexus" package="com.lexus.oneapp"/>
     <icon drawable="@drawable/themed_icon_recorder" package="com.lge.hifirecorder"/>
-    <icon drawable="@drawable/themed_icon_clock" package="com.lge.clock"/>
+    <icon drawable="@drawable/clock" package="com.lge.clock"/>
     <icon drawable="@drawable/apple_music" package="com.lge.music"/>
     <icon drawable="@drawable/lg_thinq" package="com.lgeha.nuts"/>
     <icon drawable="@drawable/lhv" package="ee.lhv.lhv"/>
@@ -3702,7 +3702,7 @@
     <icon drawable="@drawable/minisweeper" package="com.AntonBergaker.minisweeper"/>
     <icon drawable="@drawable/minma_icons" package="com.minma.icon.free"/>
     <icon drawable="@drawable/mint" package="com.mint"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="bored.codebyk.mintcalc"/>
+    <icon drawable="@drawable/calculator" package="bored.codebyk.mintcalc"/>
     <icon drawable="@drawable/mioto" package="com.mioto.mioto"/>
     <icon drawable="@drawable/mir_pay" package="ru.nspk.mirpay"/>
     <icon drawable="@drawable/mirai_plugin_for_parabox" package="com.ojhdtapp.miraipluginforparabox"/>
@@ -3838,7 +3838,7 @@
     <icon drawable="@drawable/mtn_momo" package="com.consumerug"/>
     <icon drawable="@drawable/muambator" package="br.com.muambator.android"/>
     <icon drawable="@drawable/mubi" package="com.mubi"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="us.spotco.mulch"/>
+    <icon drawable="@drawable/google_chrome" package="us.spotco.mulch"/>
     <icon drawable="@drawable/mull" package="us.spotco.fennec_dos"/>
     <icon drawable="@drawable/mullvad_vpn" package="net.mullvad.mullvadvpn"/>
     <icon drawable="@drawable/multi_calculator" package="com.yangdai.calc"/>
@@ -4271,7 +4271,7 @@
     <icon drawable="@drawable/octohide_vpn" package="octohide.vpn"/>
     <icon drawable="@drawable/octoremote" package="com.kabacon.octoremote"/>
     <icon drawable="@drawable/odea" package="com.magiclick.odeabank"/>
-    <icon drawable="@drawable/themed_icon_dialer" package="com.oplus.dialer"/>
+    <icon drawable="@drawable/google_phone" package="com.oplus.dialer"/>
     <icon drawable="@drawable/odido" package="nl.oberon.tmobile.my"/>
     <icon drawable="@drawable/odrabiamy_pl" package="com.swmansion.dajspisac"/>
     <icon drawable="@drawable/odysee" package="com.odysee.app"/>
@@ -4367,7 +4367,7 @@
     <icon drawable="@drawable/op_gg" package="gg.op.lol.android"/>
     <icon drawable="@drawable/opay" package="team.opay.pay"/>
     <icon drawable="@drawable/flutter_gallery" package="mrrfv.backup.companion"/>
-    <icon drawable="@drawable/themed_icon_camera" package="net.sourceforge.opencamera"/>
+    <icon drawable="@drawable/camera" package="net.sourceforge.opencamera"/>
     <icon drawable="@drawable/open_food_facts" package="org.openfoodfacts.scanner"/>
     <icon drawable="@drawable/open_food_facts" package="openfoodfacts.github.scrachx.openfood"/>
     <icon drawable="@drawable/open_link_with" package="com.tasomaniac.openwith"/>
@@ -4379,7 +4379,7 @@
     <icon drawable="@drawable/bible" package="com.schwegelbin.openbible"/>
     <icon drawable="@drawable/openboard" package="org.dslul.openboard.inputmethod.latin"/>
     <icon drawable="@drawable/openbubbles" package="com.openbubbles.messaging"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.darkempire78.opencalculator"/>
+    <icon drawable="@drawable/calculator" package="com.darkempire78.opencalculator"/>
     <icon drawable="@drawable/dialer" package="opencontacts.open.com.opencontacts"/>
     <icon drawable="@drawable/opendocument_reader" package="at.tomtasche.reader"/>
     <icon drawable="@drawable/pixel_ims" package="im.angry.openeuicc"/>
@@ -4595,7 +4595,7 @@
     <icon drawable="@drawable/phoenix" package="com.transsion.phoenix"/>
     <icon drawable="@drawable/dialer" package="org.fossify.phone"/>
     <icon drawable="@drawable/dialer" package="com.android.dialer"/>
-    <icon drawable="@drawable/themed_icon_dialer" package="com.android.phone"/>
+    <icon drawable="@drawable/google_phone" package="com.android.phone"/>
     <icon drawable="@drawable/dialer" package="com.android.incallui"/>
     <icon drawable="@drawable/dialer" package="com.asus.asusincallui"/>
     <icon drawable="@drawable/dialer" package="com.asus.dialer"/>
@@ -5216,7 +5216,7 @@
     <icon drawable="@drawable/rvx_manager" package="app.rvx.manager.flutter.profile"/>
     <icon drawable="@drawable/rvx_manager" package="app.rvx.manager.flutter"/>
     <icon drawable="@drawable/rvx_manager" package="app.rvx.manager.flutter.debug"/>
-    <icon drawable="@drawable/themed_icon_youtube_music" package="ytm.rvx.noname.exe"/>
+    <icon drawable="@drawable/youtube_music" package="ytm.rvx.noname.exe"/>
     <icon drawable="@drawable/rxlocal" package="com.newtechsys.rxlocalmobile"/>
     <icon drawable="@drawable/s_idcheck" package="com.entersekt.authapp.sparkasse"/>
     <icon drawable="@drawable/s_invest" package="com.starfinanz.mobile.android.invest"/>
@@ -5245,7 +5245,7 @@
     <icon drawable="@drawable/samsung_battery_guardian" package="com.samsung.android.statsd"/>
     <icon drawable="@drawable/samsung_bixby_vision" package="com.samsung.android.visionintelligence"/>
     <icon drawable="@drawable/samsung_blockchain_wallet" package="com.samsung.android.scryptowallet"/>
-    <icon drawable="@drawable/themed_icon_calculator" package="com.sec.android.app.popupcalculator"/>
+    <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator"/>
     <icon drawable="@drawable/samsung_cloud" package="com.samsung.android.scloud"/>
     <icon drawable="@drawable/samsung_contacts" package="com.samsung.android.contacts"/>
     <icon drawable="@drawable/samsung_contacts" package="com.samsung.android.app.contacts"/>
@@ -5399,7 +5399,7 @@
     <icon drawable="@drawable/search_widget_material_you" package="rk.android.app.searchbarwidget"/>
     <icon drawable="@drawable/secscanqr" package="de.t_dankworth.secscanqr"/>
     <icon drawable="@drawable/sectograph" package="prox.lab.calclock"/>
-    <icon drawable="@drawable/themed_icon_camera" package="app.grapheneos.camera.play"/>
+    <icon drawable="@drawable/camera" package="app.grapheneos.camera.play"/>
     <icon drawable="@drawable/secure_file_manager" package="com.securefilemanager.app"/>
     <icon drawable="@drawable/secure_folder" package="com.motorola.securevault"/>
     <icon drawable="@drawable/grapheneos_pdf" package="app.grapheneos.pdfviewer.play"/>
@@ -6140,7 +6140,7 @@
     <icon drawable="@drawable/thepay" package="com.tmvno.thepay"/>
     <icon drawable="@drawable/thing_counter" package="de.sleak.thingcounter"/>
     <icon drawable="@drawable/tholotis" package="com.chris.tholotis"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="org.chromium.thorium"/>
+    <icon drawable="@drawable/google_chrome" package="org.chromium.thorium"/>
     <icon drawable="@drawable/threads" package="com.instagram.barcelona"/>
     <icon drawable="@drawable/threema" package="ch.threema.app"/>
     <icon drawable="@drawable/threema" package="ch.threema.app.fdroid"/>
@@ -6403,7 +6403,7 @@
     <icon drawable="@drawable/underway" package="nyc.underway.underway"/>
     <icon drawable="@drawable/undok" package="com.frontier_silicon.fsirc.dok2"/>
     <icon drawable="@drawable/unexpected_keyboard" package="juloo.keyboard2"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="org.ungoogled.chromium.stable"/>
+    <icon drawable="@drawable/google_chrome" package="org.ungoogled.chromium.stable"/>
     <icon drawable="@drawable/unico" package="net.pluservice.unicoc"/>
     <icon drawable="@drawable/unidays" package="com.myunidays"/>
     <icon drawable="@drawable/unifi" package="com.ubnt.easyunifi"/>
@@ -6480,7 +6480,7 @@
     <icon drawable="@drawable/valiant_twint" package="ch.vab.twint"/>
     <icon drawable="@drawable/valv" package="se.arctosoft.vault"/>
     <icon drawable="@drawable/vampire_survivors" package="com.poncle.vampiresurvivors"/>
-    <icon drawable="@drawable/themed_icon_chrome" package="app.vanadium.browser"/>
+    <icon drawable="@drawable/google_chrome" package="app.vanadium.browser"/>
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager"/>
     <icon drawable="@drawable/microg_settings" package="com.mgoogle.android.gms"/>
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music"/>
@@ -6816,7 +6816,7 @@
     <icon drawable="@drawable/windesheim" package="nl.windesheim.studentsapp"/>
     <icon drawable="@drawable/windscribe" package="com.windscribe.vpn"/>
     <icon drawable="@drawable/windy" package="com.windyty.android"/>
-    <icon drawable="@drawable/themed_icon_camera" package="com.wingos.wingcamera"/>
+    <icon drawable="@drawable/camera" package="com.wingos.wingcamera"/>
     <icon drawable="@drawable/wink" package="com.fintechla.wink"/>
     <icon drawable="@drawable/wink_tv" package="ru.rt.video.app.mobile"/>
     <icon drawable="@drawable/wink_video_enhancing" package="com.meitu.wink"/>
@@ -6971,7 +6971,7 @@
     <icon drawable="@drawable/youtube_create" package="com.google.android.apps.youtube.producer"/>
     <icon drawable="@drawable/youtube_go" package="com.google.android.apps.youtube.mango"/>
     <icon drawable="@drawable/youtube_kids" package="com.google.android.apps.youtube.kids"/>
-    <icon drawable="@drawable/themed_icon_youtube_music" package="com.google.android.music"/>
+    <icon drawable="@drawable/youtube_music" package="com.google.android.music"/>
     <icon drawable="@drawable/youtube_music_revanced" package="anddea.youtube.music"/>
     <icon drawable="@drawable/youtube_music_revanced" package="app.revanced.android.apps.youtube.music"/>
     <icon drawable="@drawable/youtube_music_revanced" package="app.rvx.android.apps.youtube.music"/>
