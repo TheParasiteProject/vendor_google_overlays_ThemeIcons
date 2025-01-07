@@ -75,6 +75,7 @@
     <icon drawable="@drawable/_4pda" package="ru.fourpda.client"/>
     <icon drawable="@drawable/_5_minute_journal" package="com.intelligentchange.fiveminutejournal"/>
     <icon drawable="@drawable/_56_secure" package="com.secure56.app"/>
+    <icon drawable="@drawable/_5ber_esim" package="com.ifreegroup.moesim"/>
     <icon drawable="@drawable/_5g_tile" package="moe.xzr.fivegtile"/>
     <icon drawable="@drawable/_7_eleven" package="jp.co.sej.app"/>
     <icon drawable="@drawable/_7_eleven" package="asuk.com.android.app"/>
