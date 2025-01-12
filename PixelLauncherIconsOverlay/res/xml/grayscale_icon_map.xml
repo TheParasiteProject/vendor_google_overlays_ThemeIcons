@@ -2581,6 +2581,7 @@
     <icon drawable="@drawable/hike_messenger" package="com.bsb.hike"/>
     <icon drawable="@drawable/hill_climb_racing" package="com.fingersoft.hillclimb"/>
     <icon drawable="@drawable/hill_climb_racing_2" package="com.fingersoft.hcr2"/>
+    <icon drawable="@drawable/hilo" package="com.hiloenergie.hilo"/>
     <icon drawable="@drawable/hinge" package="co.hinge.app"/>
     <icon drawable="@drawable/hios_launcher" package="com.transsion.hilauncher"/>
     <icon drawable="@drawable/hiper_calc_pro" package="cz.hipercalc.pro"/>
