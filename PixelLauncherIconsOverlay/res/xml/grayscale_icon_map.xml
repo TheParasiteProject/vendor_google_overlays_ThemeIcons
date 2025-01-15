@@ -106,6 +106,7 @@
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery"/>
     <icon drawable="@drawable/accurate_compass" package="apps.r.compass"/>
     <icon drawable="@drawable/accuweather" package="com.accuweather.android"/>
+    <icon drawable="@drawable/ace_racer" package="com.netease.racerna"/>
     <icon drawable="@drawable/acode" package="com.foxdebug.acodefree"/>
     <icon drawable="@drawable/acode" package="com.foxdebug.acode"/>
     <icon drawable="@drawable/acronis_true_image" package="com.acronis.acronistrueimage"/>
@@ -113,6 +114,7 @@
     <icon drawable="@drawable/action" package="com.action.consumerapp"/>
     <icon drawable="@drawable/action_blocks" package="com.google.android.apps.accessibility.maui.actionblocks"/>
     <icon drawable="@drawable/action_launcher" package="com.actionlauncher.playstore"/>
+    <icon drawable="@drawable/action_notch" package="com.androxus.touchthenotch"/>
     <icon drawable="@drawable/actionbound" package="de.actionbound"/>
     <icon drawable="@drawable/actiondash" package="com.actiondash.playstore"/>
     <icon drawable="@drawable/activity_launcher" package="de.szalkowski.activitylauncher"/>
@@ -808,6 +810,7 @@
     <icon drawable="@drawable/bloomberg" package="com.bloomberg.android.plus"/>
     <icon drawable="@drawable/bloons_td_6" package="com.ninjakiwi.bloonstd6"/>
     <icon drawable="@drawable/bloons_td_battles_2" package="com.ninjakiwi.bloonstdbattles2"/>
+    <icon drawable="@drawable/blue" package="com.vms.customer"/>
     <icon drawable="@drawable/blue_shield" package="com.blueshieldca.prod"/>
     <icon drawable="@drawable/bluebubbles" package="com.bluebubbles.messaging"/>
     <icon drawable="@drawable/bluecoins" package="com.rammigsoftware.bluecoins"/>
@@ -1206,6 +1209,7 @@
     <icon drawable="@drawable/central_power" package="com.apcpdcl.customerapp"/>
     <icon drawable="@drawable/cepat" package="com.cepat"/>
     <icon drawable="@drawable/cepteteb" package="com.teb"/>
+    <icon drawable="@drawable/cfr_calatori" package="com.Infofer.ImtMobile"/>
     <icon drawable="@drawable/chai" package="com.Beauchamp.Messenger.external"/>
     <icon drawable="@drawable/chalo" package="app.zophop"/>
     <icon drawable="@drawable/change_my_mac" package="net.xnano.android.changemymac"/>
@@ -3965,6 +3969,7 @@
     <icon drawable="@drawable/mydigicel" package="com.digicel.selfcare.mobile"/>
     <icon drawable="@drawable/mydramalist" package="com.mydramalist.app"/>
     <icon drawable="@drawable/edenred" package="com.edenred.eq.myedenred"/>
+    <icon drawable="@drawable/myemc" package="ro.enayati.app"/>
     <icon drawable="@drawable/my_fitness_pal" package="com.myfitnesspal.android"/>
     <icon drawable="@drawable/my_fritz" package="de.avm.android.myfritz2"/>
     <icon drawable="@drawable/mygate" package="com.mygate.user"/>
@@ -5062,6 +5067,7 @@
     <icon drawable="@drawable/themed_icon_recorder" package="org.fossify.voicerecorder"/>
     <icon drawable="@drawable/themed_icon_recorder" package="com.vivo.soundrecorder"/>
     <icon drawable="@drawable/themed_icon_recorder" package="org.calyxos.recorder"/>
+    <icon drawable="@drawable/recorderro" package="ro.recorder.app"/>
     <icon drawable="@drawable/recurrence" package="com.bleyl.recurrence"/>
     <icon drawable="@drawable/recurring_expense_tracker" package="de.dbauer.expensetracker"/>
     <icon drawable="@drawable/red_and_moi" package="com.sfr.android.redmoncompte"/>
