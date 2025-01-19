@@ -19,28 +19,35 @@ Copyright (C) 2025 The Android Open Source Project
     android:viewportWidth="192"
     android:viewportHeight="192">
   <path
-      android:pathData="M90,106s2,1 6,1 6,-1 6,-1"
+      android:pathData="M96,108m-62,0a62,62 0,1 1,124 0a62,62 0,1 1,-124 0"
+      android:strokeLineJoin="round"
+      android:strokeWidth="12"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M120,92a24.002,24.002 0,0 0,-33.184 -22.173A24,24 0,0 0,72 92"
       android:strokeLineJoin="round"
       android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M67,95.5a3.5,4.5 0,1 0,7 0a3.5,4.5 0,1 0,-7 0z"
+      android:pathData="M96,92m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
       android:strokeLineJoin="round"
       android:strokeWidth="8"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M118,95.5a3.5,4.5 0,1 0,7 0a3.5,4.5 0,1 0,-7 0z"
+      android:pathData="M120,92c0,20 -24,32 -24,54M72,92c0,20 24,32 24,54"
       android:strokeLineJoin="round"
-      android:strokeWidth="8"
+      android:strokeWidth="10"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M90.759,26.076c2.301,-4.102 8.18,-4.102 10.482,0l19.983,35.618a6.02,6.02 0,0 0,4.051 2.957l39.893,8.086c4.595,0.932 6.412,6.55 3.24,10.016l-27.543,30.099a6.06,6.06 0,0 0,-1.548 4.785l4.673,40.615c0.538,4.677 -4.219,8.15 -8.481,6.19l-37.005,-17.015a6,6 0,0 0,-5.008 0l-37.005,17.015c-4.262,1.96 -9.019,-1.513 -8.48,-6.19l4.672,-40.615a6.06,6.06 0,0 0,-1.548 -4.785L23.593,82.753c-3.173,-3.466 -1.356,-9.084 3.239,-10.016l39.893,-8.086a6.02,6.02 0,0 0,4.05 -2.957L90.76,26.077Z"
+      android:pathData="M22,65a85,85 0,0 1,45.631 -43M170,65a85,85 0,0 0,-45.631 -43"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
