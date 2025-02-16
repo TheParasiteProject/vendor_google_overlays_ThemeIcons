@@ -12,3 +12,9 @@ $(call inherit-product, vendor/google/overlays/ThemeIcons/config.mk)
 * [ProtonAOSP](https://github.com/ProtonAOSP)
 * [StatiX](https://github.com/StatiXOS)
 * [PixelExperience](https://github.com/PixelExperience)
+
+## License
+
+All code in this repository is licensed under the Apache 2.0 License.
+
+Copyright (C) 2023-2025 TheParasiteProject
